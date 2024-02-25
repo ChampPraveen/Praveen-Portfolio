@@ -2,10 +2,11 @@
     font-family: 'Poppins', sans-serif;
 }
 .banner {
-    background-image: url(../web\ images/bg2.png);
+    background-image: url(../web\ images/bg4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 250px 0;
+    -webkit-text-fill-color: antiquewhite;
 }
 
 .skillpadding {
